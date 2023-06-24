@@ -1,3 +1,7 @@
+/*****************
+     * Bilal Hamid
+     * 301037289 *
+    * ****************/
 let mongoose = require('mongoose');
 
 // create a model class
